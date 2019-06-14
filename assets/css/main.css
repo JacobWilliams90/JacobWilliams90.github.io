@@ -290,6 +290,7 @@ input, select, textarea {
 		box-sizing: border-box;
 		align-items: stretch;
 		justify-content: space-around;
+		
 	}
 
 		.row > * {
